@@ -26,6 +26,7 @@ A curated list of awesome things related to QuickJS !
 
 - [Runtimes](#runtimes)
 - [Gui](#gui)
+- [Tools](#tools)
 
 <!-- CONTENT -->
 
@@ -37,6 +38,10 @@ A curated list of awesome things related to QuickJS !
 
 - [QuickJS-glfw](https://github.com/Qard/quickjs-glfw) - Experimental GLFW bindings for QuickJS
 - [QuickJS-raylib](https://github.com/sntg-p/QuickJS-raylib) - QuickJS + raylib consists in a module for QuickJS that enables you to use raylib from JavaScript and run your game with native performance.
+
+## Tools
+
+-[Quickjs-cross-compiler](https://github.com/ctn-malone/quickjs-cross-compiler) Cross compile QuickJS interpreter & compiler statically.
 
 <!-- END CONTENT -->
 
