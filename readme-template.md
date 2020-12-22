@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome QuickJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/kaosat-dev/awesome-quickjs>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome QuickJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <!-- subtitle -->
 
