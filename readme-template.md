@@ -3,11 +3,11 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome QuickJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/kaosat-dev/awesome-quickjs>/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A curated list of awesome things related to QuickJS !
 
 <!-- image -->
 
@@ -17,35 +17,29 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
-
+[QuickJS](https://bellard.org/quickjs/) is a small and embeddable Javascript engine. It supports the ES2020 specification including modules, asynchronous generators, proxies and BigInt.
 </div>
 
 <!-- TOC -->
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Runtimes] (#runtimes)
+- [Gui](#gui)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Runtimes
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Txiki](https://github.com/saghul/txiki.js) - txiki.js is a small and powerful JavaScript runtime. It's built on the shoulders of giants: it uses QuickJS as its JavaScript engine and libuv as the platform layer.
 
-## Section 1
+## Gui
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [QuickJS-glfw](https://github.com/Qard/quickjs-glfw) - Experimental GLFW bindings for QuickJS
+- [QuickJS-raylib](https://github.com/sntg-p/QuickJS-raylib) - QuickJS + raylib consists in a module for QuickJS that enables you to use raylib from JavaScript and run your game with native performance.
 
 <!-- END CONTENT -->
 
-## Follow
-
-<!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
@@ -53,7 +47,7 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+<!-- [Thanks goes to these contributors](https://github.com/kaosat-dev/awesome-quickjs/graphs/contributors)! -->
 
 ## License
 
