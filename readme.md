@@ -49,6 +49,10 @@ A curated list of awesome things related to QuickJS !
 
 - [Quickjs-cross-compiler](https://github.com/ctn-malone/quickjs-cross-compiler) Cross compile QuickJS interpreter & compiler statically.
 
+## Modules
+
+- [quickjs-modules](https://github.com/rsenn/quickjs-modules) - Several native C modules for QuickJS: deep, inspect, mmap, path, pointer, tree-walker, xml
+
 <!-- END CONTENT -->
 
 
