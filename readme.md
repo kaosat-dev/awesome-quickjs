@@ -51,7 +51,7 @@ A curated list of awesome things related to QuickJS !
 
 ## Modules
 
-- [quickjs-modules](https://github.com/rsenn/quickjs-modules) - Several native C modules for QuickJS: deep, inspect, mmap, path, pointer, tree-walker, xml
+- [quickjs-modules](https://github.com/rsenn/quickjs-modules) - Native C modules for QuickJS: deep, inspect, mmap, path, pointer, tree-walker, xml
 
 <!-- END CONTENT -->
 
