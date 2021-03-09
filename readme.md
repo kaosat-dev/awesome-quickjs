@@ -39,6 +39,7 @@ A curated list of awesome things related to QuickJS !
 
 - [QuickJS-glfw](https://github.com/Qard/quickjs-glfw) - Experimental GLFW bindings for QuickJS
 - [QuickJS-raylib](https://github.com/sntg-p/QuickJS-raylib) - QuickJS + raylib consists in a module for QuickJS that enables you to use raylib from JavaScript and run your game with native performance.
+- [nanovg-qjs](https://github.com/yushroom/nanovg-qjs) - NanoVG bindings for QuickJS
 
 # Gamedev
 
@@ -48,6 +49,11 @@ A curated list of awesome things related to QuickJS !
 ## Tools
 
 - [Quickjs-cross-compiler](https://github.com/ctn-malone/quickjs-cross-compiler) Cross compile QuickJS interpreter & compiler statically.
+
+## Modules
+
+- [quickjs-modules](https://github.com/rsenn/quickjs-modules) - Native C modules for QuickJS: deep, inspect, mmap, path, pointer, tree-walker, xml
+- [qjs-ffi](https://github.com/ratboy666/qjs-ffi) -  Foreign Function Interface (FFI) module
 
 <!-- END CONTENT -->
 
