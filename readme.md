@@ -28,6 +28,7 @@ A curated list of awesome things related to QuickJS !
 - [Gui](#gui)
 - [Gamedev](#gamedev)
 - [Tools](#tools)
+- [Modules](#modules)
 
 <!-- CONTENT -->
 
@@ -41,7 +42,7 @@ A curated list of awesome things related to QuickJS !
 - [QuickJS-raylib](https://github.com/sntg-p/QuickJS-raylib) - QuickJS + raylib consists in a module for QuickJS that enables you to use raylib from JavaScript and run your game with native performance.
 - [nanovg-qjs](https://github.com/yushroom/nanovg-qjs) - NanoVG bindings for QuickJS
 
-# Gamedev
+## Gamedev
 
 - [GodotExplorer/ECMAScript](https://github.com/GodotExplorer/ECMAScript) This module implements JavaScript/TypeScript language support for the godot game engine. QuickJS is used as the ECMAScript engine!
 
@@ -53,7 +54,8 @@ A curated list of awesome things related to QuickJS !
 ## Modules
 
 - [quickjs-modules](https://github.com/rsenn/quickjs-modules) - Native C modules for QuickJS: deep, inspect, mmap, path, pointer, tree-walker, xml
-- [qjs-ffi](https://github.com/ratboy666/qjs-ffi) -  Foreign Function Interface (FFI) module
+- [qjs-ffi](https://github.com/ratboy666/qjs-ffi) - Foreign Function Interface (FFI) module
+- [quickwebserver](https://github.com/QuickJS-Web-project/quickwebserver) - Implementation of HTTP web server in the QuickJS Runtime
 
 <!-- END CONTENT -->
 
